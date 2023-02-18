@@ -20,14 +20,14 @@ Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari su
 Flowchart untuk program ini cukup sederhana, yaitu pembeli memulai program, lalu memasukkan nama, jumlah, dan harga barang. Selanjutnya menambahkan barang jika mau, kalau tidak akan lanjut ke mengecek pesanan dan akan dicek apakah ada kesalahan seperti kesalahan input atau ada yang ingin diubah pesanannya. Selanjutnya ketika semua sudah benar maka akan lanjut ke bagian menghitung total belanja beserta diskon yang bisa didapatkan. Akhirnya akan muncul total yang harus dibayarkan beserta diskonnya.
 
 Fungsi atribut:
-`add_item` berfungsi untuk menambahkan nama, jumlah, dan harga barang yang ingin dibeli
-`update_item_name` berfungsi untuk mengubah atau memperbaiki nama barang yang dibeli
-`update_item_qty` berfungsi untuk mengubah atau memperbaiki jumlah barang yang dibeli
-`update_item_price` berfungsi untuk mengubah atau memperbaiki harga barang yang dibeli
-`delete_item` berfungsi untuk menghapus barang yang tidak diinginkan
-`reset_transaction` berfungsi untuk menghapus semua barang yang dipesan
-`check_order` berfungsi untuk memeriksa benar atau salahnya pesanan yang sudah diinput dan menampilkan seluruh barang yang dipesan
-`total_price` berfungsi untuk mengetahui total dari belanja yang harus dibayar beserta diskon yang didapatkan
+- `add_item` berfungsi untuk menambahkan nama, jumlah, dan harga barang yang ingin dibeli
+- `update_item_name` berfungsi untuk mengubah atau memperbaiki nama barang yang dibeli
+- `update_item_qty` berfungsi untuk mengubah atau memperbaiki jumlah barang yang dibeli
+- `update_item_price` berfungsi untuk mengubah atau memperbaiki harga barang yang dibeli
+- `delete_item` berfungsi untuk menghapus barang yang tidak diinginkan
+- `reset_transaction` berfungsi untuk menghapus semua barang yang dipesan
+- `check_order` berfungsi untuk memeriksa benar atau salahnya pesanan yang sudah diinput dan menampilkan seluruh barang yang dipesan
+- `total_price` berfungsi untuk mengetahui total dari belanja yang harus dibayar beserta diskon yang didapatkan
 
 ## Cara Menjalankan Program
 ---
